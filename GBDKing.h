@@ -19,7 +19,7 @@ GAME BOY GAMES IN C========================
 #define I_START   -128
 #define I_SELECT  64
 
-/*WAITJOY = WAITS FOR ANY GIVEN VALUE, NOT JUST J_A OR J_B
+/*WAITJOY = WAITS FOR ANY GIVEN VALUE, NOT JUST J_A OR J_B*/
 void waitjoy()
 {
 waitloop:
